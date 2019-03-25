@@ -12,7 +12,7 @@
 |      | CAD-60 dataset         |            |      |          |      |
 |      | 3D action pairs        |            |      |          |      |
 
-2019/03/25-2019/04/01
+
 ## 2018
 | Title | Conf | Code |
 |:--------|:--------:|:--------:|
@@ -36,3 +36,5 @@
 | [Human Pose Estimation With Parsing Induced Learner](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nie_Human_Pose_Estimation_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/NieXC/pytorch-pil) |
 | [Inner Space Preserving Generative Pose Machine](http://openaccess.thecvf.com/content_ECCV_2018/html/Shuangjun_Liu_Inner_Space_Preserving_ECCV_2018_paper.html) | ECCV | [code](https://github.com/ostadabbas/isp-gpm) |
 | [Recognizing Human Actions as the Evolution of Pose Estimation Maps](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Recognizing_Human_Actions_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/nkliuyifang/Skeleton-based-Human-Action-Recognition) |
+
+`added in 2019/03/25`
